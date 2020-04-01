@@ -1,4 +1,5 @@
 [![Build Status](https://travis-ci.org/reportportal/client-javascript.svg?branch=master)](https://travis-ci.org/reportportal/client-javascript)[![Code Coverage](https://codecov.io/gh/reportportal/client-javascript/branch/master/graph/badge.svg)](https://codecov.io/gh/reportportal/client-javascript)[![npm version](https://badge.fury.io/js/reportportal-client.svg)](https://badge.fury.io/js/reportportal-client)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHardNorth%2Fclient-javascript.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FHardNorth%2Fclient-javascript?ref=badge_shield)
 
 # ReportPortal js client
 This Client is to communicate with the Report Portal on node js.
@@ -287,3 +288,7 @@ content   | file
 # Copyright Notice
 Licensed under the [Apache 2.0](https://www.apache.org/licenses/LICENSE-2.0.html)
 license (see the LICENSE.txt file).
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHardNorth%2Fclient-javascript.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FHardNorth%2Fclient-javascript?ref=badge_large)
